@@ -1,0 +1,15 @@
+2020/04/24 19:47:58 [emerg] 8#8: unexpected end of file, expecting "}" in /etc/nginx/sites-available/app-laravel.conf:23
+2020/04/24 19:49:49 [emerg] 8#8: unexpected end of file, expecting "}" in /etc/nginx/sites-available/app-laravel.conf:23
+2020/04/24 19:51:22 [emerg] 8#8: unexpected end of file, expecting "}" in /etc/nginx/sites-available/app-laravel.conf:23
+2020/04/24 19:55:38 [emerg] 9#9: unexpected end of file, expecting "}" in /etc/nginx/sites-available/app-laravel.conf:23
+2020/04/24 19:58:50 [emerg] 8#8: unknown directive "﻿server" in /etc/nginx/sites-available/app-laravel.conf:1
+2020/04/26 14:09:53 [emerg] 8#8: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2020/05/05 00:04:40 [emerg] 8#8: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2020/05/05 00:04:42 [emerg] 8#8: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2020/05/05 00:04:43 [emerg] 9#9: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2020/05/05 00:04:44 [emerg] 9#9: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2020/05/05 00:04:46 [emerg] 11#11: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2020/05/05 00:04:49 [emerg] 9#9: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2020/05/05 00:04:53 [emerg] 8#8: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2020/05/05 00:05:00 [emerg] 8#8: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2020/05/05 00:05:14 [emerg] 9#9: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
